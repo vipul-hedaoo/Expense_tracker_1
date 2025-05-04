@@ -17,6 +17,7 @@ A stylish and interactive expense tracking application built with **React**, sty
 - **React** - Component-based UI
 - **Tailwind CSS** - Utility-first styling
 - **Framer Motion** - Animation framework
+- **react icon** - icons
 
 ## 🛠️ Installation & Setup
 
